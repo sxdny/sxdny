@@ -1,11 +1,18 @@
-# Hey
+<h1 align="center">
+  Hi, my name is Sidney.  
+</h1>
 
-![image]({https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={devsidney}})
+<p align="center">
+  Software developer from Brazil.  
+</p>
 
-![image]({https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white}})
-
-
-
+<p align='center'>
+  
+  <a href="https://instagram.com/sidney_sbo">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  
+</p>
 https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white
 
 https://img.shields.io/badge/Jekyll-CC0000?style=for-the-badge&logo=Jekyll&logoColor=white
