@@ -1,7 +1,7 @@
-<h1 align="center">hEy!</h1>
+<h1 align="center">Welcome to my Github profile!</h1>
 
 <p align="center">
-  Welcome to my Github profile.
+  Links:
 </p>
 
 <p align="center">
