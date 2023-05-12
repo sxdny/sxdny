@@ -1,8 +1,12 @@
-<h1 align="center">Welcome to my Github profile!</h1>
-
+<h3 align="center">📩 Contact me:</h3>
 <p align="center">
-  📥 Contact me: <a href="mailto:silvasidney721@gmail.com">
+  📥 Mail: <a href="mailto:silvasidney721@gmail.com">
   silvasidney721@gmail.com
+  </a> <br>
+</p>
+<p align="center">
+  👥 Instagram: <a href="https://instagram.com/sidney_sbo?igshid=ZGUzMzM3NWJiOQ==">
+  sidney_sbo
   </a> <br>
 </p>
 
