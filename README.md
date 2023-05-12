@@ -1,7 +1,7 @@
 <h1 align="center">
-  👩‍💻
+  <sxndy>
 </h1>
-<p align="center", style="color: red">
+<p align="center">
   Quality ov>r Quantity
 </p
 
