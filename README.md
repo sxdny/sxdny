@@ -8,7 +8,7 @@ Feel free to contact with me through <a href="mailto:silvasidney721@gmail.com">m
 Socials:
 
 - [Instagram](https://instagram.com/sidney_sbo?igshid=ZGUzMzM3NWJiOQ==)
-- [Github](https://github.com/sxdny)
+- [Twitter](https://twitter.com/SidneySilvaBra1)
 - [YouTube](https://www.youtube.com/@sidney_sbo)
 
 
