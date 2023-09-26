@@ -9,6 +9,7 @@ Feel free to contact with me through <a href="mailto:silvasidney721@gmail.com">m
 - [Twitter](https://twitter.com/SidneySilvaBra1)
 - [YouTube](https://www.youtube.com/@sidney_sbo)
 
+LUV what I need from YOU 
 
 
 
