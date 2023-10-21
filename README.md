@@ -1,4 +1,4 @@
-Just doing stuff.
+Tech lov<3r.
 
 ### Contact:
 Feel free to contact with me through <a href="mailto:silvasidney721@gmail.com">mail</a>.
