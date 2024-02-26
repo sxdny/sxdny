@@ -1,1 +1,2 @@
-![Seeking to make software to improve lives.](images/profile_banner.jpg)
+- 🌟 Visit my portfolio --> [sxdny.tech](https://sxdny.tech)
+- 📩 Contacta conmigo --> <a href="mailto:sidneysilva@sxdny.tech"> sidneysilva@sxdny.tech </a>
