@@ -1,2 +1,2 @@
 - 🌟 Visit my portfolio --> [sxdny.tech](https://sxdny.tech)
-- 📩 Contacta conmigo --> <a href="mailto:sidneysilva@sxdny.tech"> sidneysilva@sxdny.tech </a>
+- 📩 Send me a message! <a href="mailto:sidneysilva@sxdny.tech"> sidneysilva@sxdny.tech </a>
