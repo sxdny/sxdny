@@ -1,2 +1,3 @@
 - 🌟 Visit my portfolio --> [sxdny.tech](https://sxdny.tech)
 - 📩 Send me a message! <a href="mailto:sidneysilva@sxdny.tech"> sidneysilva@sxdny.tech </a>
+- 🐱‍👤 LeetCode profile: [leetcode/sdxny](https://leetcode.com/sxdny/)
