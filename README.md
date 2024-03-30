@@ -1,1 +1,2 @@
-Personal website: https://sxdny.dev
+- ⭐ My website: https://sxdny.dev
+- 👨‍💻 My blog: https://blog.sxdny.dev
