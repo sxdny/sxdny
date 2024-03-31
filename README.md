@@ -1,3 +1,3 @@
-- ⭐ My website: https://sxdny.dev
-- 🤓 My blog: https://blog.sxdny.dev
+- ⭐ My website:   https://sxdny.dev
+- 🤓 My blog:      https://blog.sxdny.dev
 - 👨‍💻 My portfolio: https://portfolio.sxdny.dev
