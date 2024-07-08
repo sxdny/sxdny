@@ -1,3 +1,3 @@
 - ⭐ My website:                 https://sxdny.dev
-- 🤓 My blog (Coming soon...):   https://blog.sxdny.dev
 - 👨‍💻 My portfolio:               https://portfolio.sxdny.dev
+- 📹 My YouTube channel:         https://www.youtube.com/@sidney_sbo
