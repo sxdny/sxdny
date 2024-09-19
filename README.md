@@ -4,5 +4,5 @@ If you want to know more about me, check [my personal website](https://sxdny.dev
 
 ### Current projects:
 
-- **Web** / Media Collector
+- **Web** / [Media Collector](https://github.com/sxdny/media-collector)
   
