@@ -4,5 +4,6 @@ I have [personal website](https://sxdny.dev) where I post content about code, ma
 
 ### 🏗️ Current projects:
 
-- **Web** / [Media Collector](https://github.com/sxdny/media-collector)
+- **Web** / [Media Collector](https://github.com/sxdny/media-collector) (blocked by [HotelPHP + Laravel](https://github.com/sxdny/hotelphp))
+- **Web** / [HotelPHP + Laravel](https://github.com/sxdny/hotelphp)
   
